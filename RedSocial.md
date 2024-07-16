@@ -20,3 +20,5 @@ Descubre más sobre cómo Montessori desafía estos mitos y proporciona una educ
 🔗 [Lee más en Montessori de Metepec](https://montessoridemetepec.edu.mx/desmintiendo-mitos-sobre-montessori/)
 
 #Montessori #EducaciónInclusiva #AprendizajeAutónomo #NiñosFelices #DesmitificandoMontessori
+
+[PadreMontessori] (Autonomia.jpg)
