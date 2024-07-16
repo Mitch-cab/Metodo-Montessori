@@ -2,7 +2,7 @@
 
 El Método Montessori, conocido por su enfoque centrado en el niño y su énfasis en el aprendizaje autodirigido, puede ser implementado de manera efectiva en el entorno del hogar. Adaptar los principios Montessori en casa no solo fomenta el desarrollo integral del niño, sino que también crea un ambiente propicio para el aprendizaje activo y la exploración independiente desde una edad temprana.
 
-![Ambiente Preparado](Ambiente preparado.jpg)
+![Ambiente Preparado](AmbientePreparado.jpg)
 
 #### Principios para Implementar el Método Montessori en Casa con Ejemplos Prácticos
 
