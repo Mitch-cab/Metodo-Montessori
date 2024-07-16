@@ -21,4 +21,4 @@ Descubre más sobre cómo Montessori desafía estos mitos y proporciona una educ
 
 #Montessori #EducaciónInclusiva #AprendizajeAutónomo #NiñosFelices #DesmitificandoMontessori
 
-![PadresMontessori](images/Autonomia.jpg)
+![PadresMontessori](images/Didacta.jpg)
