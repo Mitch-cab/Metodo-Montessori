@@ -2,7 +2,7 @@
 
 ### Qué es Montessori
 
-![Aula Montessori](aula.jpg)
+![Aula Montessori](images/aula.jpg)
 
 El método Montessori, desarrollado por la doctora María Montessori, es un enfoque educativo que se ha utilizado con éxito durante más de un siglo. Este método pone énfasis en la importancia de un ambiente preparado, materiales didácticos específicos y el papel fundamental del educador como guía.
 
@@ -12,7 +12,7 @@ En las aulas Montessori, el entorno está cuidadosamente diseñado para fomentar
 
 ### Materiales Montessori
 
-![Materiales Montessori](material.jpg)
+![Materiales Montessori](images/material.jpg)
 
 Los materiales utilizados en el método Montessori son únicos y diseñados específicamente para el aprendizaje. Estos materiales son auto-correctivos, lo que permite a los niños aprender de sus errores sin intervención constante del adulto. Cada material tiene un propósito específico y está destinado a enseñar una habilidad particular, desde habilidades sensoriales hasta conceptos matemáticos avanzados.
 
