@@ -3,6 +3,8 @@
 ## Introducción:
 Desde la infancia hasta la preadolescencia, cada etapa del niño merece un enfoque educativo único y personalizado. Descubre cómo las actividades Montessori pueden enriquecer el día a día de tus hijos, fomentando su independencia y curiosidad innata.
 
+images/Didacta.jpg
+
 ## Desarrollo:
 
 Imagina un hogar donde cada rincón es un espacio de aprendizaje y descubrimiento para tu hijo, donde la autonomía y el amor por el aprendizaje son los pilares fundamentales. El método Montessori, desarrollado por Maria Montessori, no solo transforma la manera en que los niños aprenden, sino que también nutre su desarrollo integral desde una edad temprana. Implementar estas prácticas en casa no solo fortalece el vínculo entre padres e hijos, sino que también prepara a los pequeños para un futuro lleno de logros y autoconfianza.
