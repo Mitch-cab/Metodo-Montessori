@@ -3,7 +3,7 @@
 ## Introducción:
 Desde la infancia hasta la preadolescencia, cada etapa del niño merece un enfoque educativo único y personalizado. Descubre cómo las actividades Montessori pueden enriquecer el día a día de tus hijos, fomentando su independencia y curiosidad innata.
 
-images/Didacta.jpg
+(images/Didacta.jpg)
 
 ## Desarrollo:
 
