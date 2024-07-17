@@ -1,6 +1,6 @@
 ### ¡Transforma tu Hogar con el Método Montessori!
 
-![Niños jugando en un ambiente Montessori](imagen_url_despues_del_titulo)
+![Niños jugando en un ambiente Montessori](images/AmbientePreparado.jpg)
 
 
 ¿Te has preguntado cómo podrías fomentar el aprendizaje y desarrollo de tus hijos de una manera divertida y significativa? Implementar el método Montessori en casa puede ser una experiencia increíblemente gratificante tanto para los niños como para los padres. Aquí te damos algunos consejos para que empieces con el pie derecho.
@@ -33,6 +33,6 @@ Las rutinas son fundamentales para que los niños se sientan seguros y comprenda
 - **Consistencia**: Ten una rutina diaria que tus hijos puedan anticipar. Esto les da seguridad y estructura.
 - **Flexibilidad**: Aunque las rutinas son importantes, permite cierta flexibilidad. Algunos días pueden querer pasar más tiempo jugando con bloques y otros, explorando al aire libre. ¡Y está bien!
 
-![Niño explorando en un ambiente Montessori](imagen_url_antes_del_parrafo_final)
+![Niño explorando en un ambiente Montessori](images/AyudaPadres.jpg)
 
 Implementar el método Montessori en casa puede parecer un desafío, pero con estos consejos, ¡estás listo para empezar! Verás cómo tus hijos florecen en un entorno que promueve su independencia, creatividad y amor por el aprendizaje. ¡Anímate a probar y disfruta del maravilloso viaje del aprendizaje juntos!
