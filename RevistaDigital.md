@@ -3,7 +3,7 @@
 ## Introducción:
 Desde la infancia hasta la preadolescencia, cada etapa del niño merece un enfoque educativo único y personalizado. Descubre cómo las actividades Montessori pueden enriquecer el día a día de tus hijos, fomentando su independencia y curiosidad innata.
 
-(images/Didacta.jpg)
+![Montessori](images/Didacta.jpg)
 
 ## Desarrollo:
 
@@ -34,6 +34,8 @@ En esta etapa crucial, los niños están listos para explorar el mundo que les r
 3. **Actividades Artísticas**: Inspira la creatividad de tu hijo con actividades como la pintura, la modelación de arcilla o la creación de collages. Estas expresiones artísticas no solo son divertidas, sino que también fomentan la autoexpresión y la resolución de problemas de manera creativa.
 
 4. **Jardinería**: Aprender sobre la naturaleza a través del cuidado de plantas enseña a los niños sobre responsabilidad ambiental y el ciclo de vida de las plantas, promoviendo una conexión más profunda con el entorno natural.
+
+![Montessori2](images/aula.jpg)
 
 ### 6 a 9 Años
 
@@ -70,6 +72,8 @@ En esta etapa final de la niñez, los niños están preparados para aplicar sus 
 4. **Estimulación de la Creatividad y el Pensamiento Crítico**: La libertad para explorar y experimentar en un entorno preparado fomenta la creatividad y el desarrollo del pensamiento crítico, habilidades fundamentales para la resolución de problemas y la innovación.
 
 5. **Adaptación Individualizada**: Cada niño avanza a su propio ritmo, lo que permite una educación más personalizada y respetuosa de sus tiempos de desarrollo, atendiendo sus necesidades individuales y fomentando un aprendizaje más profundo y significativo.
+
+![Montessori2](images/Autonomia.jpg)
 
 ## Conclusión
 
